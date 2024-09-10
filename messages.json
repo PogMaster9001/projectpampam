@@ -4,6 +4,12 @@
             "user": "User1",
             "message": "This is a pending message",
             "approved": false
+        },
+        {
+            "user": "dazaiosamu13",
+            "message": "Test 3",
+            "approved": false,
+            "approval_message_id": null
         }
     ],
     "approved": [
