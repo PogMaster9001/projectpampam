@@ -1,13 +1,5 @@
 {
-    "pending": [
-        {
-            "user": "username",
-            "title": "Fan Art Title",
-            "url": "https://example.com/image.png",
-            "approved": false,
-            "approval_message_id": 1283177706913005622
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "username",
@@ -27,6 +19,13 @@
             "title": "sdfg",
             "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
             "approved": true
+        },
+        {
+            "user": "username",
+            "title": "Fan Art Title",
+            "url": "https://example.com/image.png",
+            "approved": true,
+            "approval_message_id": 1283177706913005622
         }
     ]
 }
