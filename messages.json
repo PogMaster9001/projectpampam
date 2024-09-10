@@ -4,17 +4,17 @@
             "user": "User1",
             "message": "This is a pending message",
             "approved": false
-        },
-        {
-            "user": "pogmaster9001",
-            "message": "test",
-            "approved": false
         }
     ],
     "approved": [
         {
             "user": "User2",
             "message": "This is an approved message",
+            "approved": true
+        },
+        {
+            "user": "pogmaster9001",
+            "message": "test",
             "approved": true
         }
     ]
