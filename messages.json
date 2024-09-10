@@ -4,6 +4,11 @@
             "user": "User1",
             "message": "This is a pending message",
             "approved": false
+        },
+        {
+            "user": "pogmaster9001",
+            "message": "test",
+            "approved": false
         }
     ],
     "approved": [
