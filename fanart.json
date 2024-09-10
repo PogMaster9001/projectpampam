@@ -6,6 +6,11 @@
             "url": "https://example.com/image.png",
             "approved": false,
             "approval_message_id": "123456789012345678"
+        },
+        {
+            "title": "sdfg",
+            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
+            "approved": false
         }
     ],
     "approved": [
