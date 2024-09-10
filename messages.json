@@ -1,12 +1,5 @@
 {
-    "pending": [
-        {
-            "user": "pogmaster9001",
-            "message": "this is a message to submit",
-            "approved": false,
-            "approval_message_id": 1283212851770687528
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "User2",
@@ -29,6 +22,12 @@
             "message": "Test 3",
             "approved": true,
             "approval_message_id": 1283166258904436979
+        },
+        {
+            "user": "pogmaster9001",
+            "message": "this is a message to submit",
+            "approved": true,
+            "approval_message_id": 1283212851770687528
         }
     ]
 }
