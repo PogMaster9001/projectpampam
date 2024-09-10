@@ -2,33 +2,7 @@
     "pending": [],
     "approved": [
         {
-            "user": "username",
-            "title": "Fan Art Title",
-            "url": "https://example.com/image.png",
-            "approved": true,
-            "approval_message_id": "123456789012345678"
-        },
-        {
-            "user": "pogmaster9001",
-            "title": "jay",
-            "url": "https://drive.google.com/uc?export=view&id=1lbxORVf_cq21bes2jeie1E3LKQazU5mr",
-            "approved": true,
-            "approval_message_id": 1283170476931154000
-        },
-        {
-            "title": "sdfg",
-            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
-            "approved": true
-        },
-        {
-            "user": "username",
-            "title": "Fan Art Title",
-            "url": "https://example.com/image.png",
-            "approved": true,
-            "approval_message_id": 1283177706913005622
-        },
-        {
-            "title": "fgfd",
+            "title": "Silly Jay",
             "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
             "approved": true,
             "approval_message_id": 1283178771569971212
