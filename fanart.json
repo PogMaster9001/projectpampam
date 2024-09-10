@@ -1,12 +1,5 @@
 {
-    "pending": [
-        {
-            "title": "Title",
-            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/2023-07-19_23.52.50.png",
-            "approved": false,
-            "approval_message_id": 1283213420493144237
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "title": "Silly Jay",
@@ -19,6 +12,12 @@
             "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/2023-07-20_00.32.57.png",
             "approved": true,
             "approval_message_id": 1283180385022509080
+        },
+        {
+            "title": "Title",
+            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/2023-07-19_23.52.50.png",
+            "approved": true,
+            "approval_message_id": 1283213420493144237
         }
     ]
 }
