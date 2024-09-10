@@ -4,12 +4,6 @@
             "user": "User1",
             "message": "This is a pending message",
             "approved": false
-        },
-        {
-            "user": "pogmaster9001",
-            "message": "test2",
-            "approved": false,
-            "approval_message_id": 1283147853119885363
         }
     ],
     "approved": [
@@ -22,6 +16,12 @@
             "user": "pogmaster9001",
             "message": "test",
             "approved": true
+        },
+        {
+            "user": "pogmaster9001",
+            "message": "test2",
+            "approved": true,
+            "approval_message_id": 1283147853119885363
         }
     ]
 }
