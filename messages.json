@@ -1,11 +1,5 @@
 {
-    "pending": [
-        {
-            "user": "User1",
-            "message": "This is a pending message",
-            "approved": false
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "User2",
