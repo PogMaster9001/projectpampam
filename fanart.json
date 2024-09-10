@@ -1,12 +1,5 @@
 {
-    "pending": [
-        {
-            "title": "fgfd",
-            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
-            "approved": false,
-            "approval_message_id": 1283178771569971212
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "username",
@@ -33,6 +26,12 @@
             "url": "https://example.com/image.png",
             "approved": true,
             "approval_message_id": 1283177706913005622
+        },
+        {
+            "title": "fgfd",
+            "url": "https://github.com/PogMaster9001/projectpampam/raw/main/fanart/jaylol.PNG",
+            "approved": true,
+            "approval_message_id": 1283178771569971212
         }
     ]
 }
