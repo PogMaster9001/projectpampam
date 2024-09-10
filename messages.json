@@ -4,12 +4,6 @@
             "user": "User1",
             "message": "This is a pending message",
             "approved": false
-        },
-        {
-            "user": "dazaiosamu13",
-            "message": "Test 3",
-            "approved": false,
-            "approval_message_id": 1283166258904436979
         }
     ],
     "approved": [
@@ -28,6 +22,12 @@
             "message": "test2",
             "approved": true,
             "approval_message_id": 1283147853119885363
+        },
+        {
+            "user": "dazaiosamu13",
+            "message": "Test 3",
+            "approved": true,
+            "approval_message_id": 1283166258904436979
         }
     ]
 }
