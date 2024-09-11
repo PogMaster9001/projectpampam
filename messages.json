@@ -1,12 +1,5 @@
 {
-    "pending": [
-        {
-            "user": "pogmaster9001",
-            "message": "e",
-            "approved": false,
-            "approval_message_id": 1283242274607726748
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "User2",
