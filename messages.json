@@ -1,5 +1,12 @@
 {
-    "pending": [],
+    "pending": [
+        {
+            "user": "pogmaster9001",
+            "message": "this is a message that I am submitting",
+            "approved": false,
+            "approval_message_id": null
+        }
+    ],
     "approved": [
         {
             "user": "User2",
