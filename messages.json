@@ -1,12 +1,5 @@
 {
-    "pending": [
-        {
-            "user": "thinkfrosy",
-            "message": "hehe im just a man",
-            "approved": false,
-            "approval_message_id": 1283243919819280396
-        }
-    ],
+    "pending": [],
     "approved": [
         {
             "user": "User2",
@@ -53,6 +46,12 @@
             "message": "this is a message that I am submitting",
             "approved": true,
             "approval_message_id": 1283243567904587776
+        },
+        {
+            "user": "thinkfrosy",
+            "message": "hehe im just a man",
+            "approved": true,
+            "approval_message_id": 1283243919819280396
         }
     ]
 }
